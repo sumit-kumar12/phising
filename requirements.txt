@@ -1,0 +1,7 @@
+requests
+python-whois
+fpdf
+google-api-python-client
+scikit-learn
+pandas
+numpy
